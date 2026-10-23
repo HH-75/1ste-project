@@ -3,7 +3,7 @@ import{stdin as input, stdout as output} from 'node:process';
 const userInput = readline.createInterface({input, output});
 
 
-
+// Opdracht-  GitHub Account aanmaken (Professional Skills Development - 1PROG)
 
 
 //
